@@ -1,6 +1,6 @@
 # All Java Programs I Did Till Now
 
-Welcome to my repository of Java programs! This collection showcases a variety of Java programs, from basic syntax to advanced topics, all designed to help learners and enthusiasts improve their Java programming skills.
+Welcome to my repository of Java programs! This collection showcases a variety of Java programs, from basic syntax to advanced topics, all designed to help learners and enthusiasts improve their Java programming skills. Basically when I was in my second year I wanted to really learn java hence these are some basic problems/codes which I did to understand the heart of java.As a beginner I feel it might help you!My intention is to provide small help thats it :)
 
 ## 🚀 Features
 
